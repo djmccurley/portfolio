@@ -1,6 +1,7 @@
 site: Duet Jekyll Theme
 
-url: "https://djmccurley.github.io/portfolio"
+baseurl: "/portfolio"
+url: "https://djmccurley.github.io"
 
 collections:
   pages:
