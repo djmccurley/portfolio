@@ -1,5 +1,7 @@
 site: Duet Jekyll Theme
 
+url: "https://djmccurley.github.io/portfolio"
+
 collections:
   pages:
     output: true
